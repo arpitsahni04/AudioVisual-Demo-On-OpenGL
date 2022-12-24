@@ -34,22 +34,22 @@ int main(void)
 	YsSoundPlayer::SoundData myWav2; // Explosion sound
 	YsSoundPlayer::SoundData myWav3; // Suspense Sound
 	YsSoundPlayer::SoundData myWav4; // Screaming Sound
-	if (YSOK != myWav1.LoadWav("bg.wav"))
+	if (YSOK != myWav1.LoadWav("Assets/bg.wav"))
 	{
 		printf("Failed to read the BG file ");
 		return 1;
 	}
-	if (YSOK != myWav2.LoadWav("explosion1.wav"))
+	if (YSOK != myWav2.LoadWav("Assets/explosion1.wav"))
 	{
 		printf("Failed to read the BG file ");
 		return 1;
 	}
-	if (YSOK != myWav3.LoadWav("Goat Scream.wav"))
+	if (YSOK != myWav3.LoadWav("Assets/Goat Scream.wav"))
 	{
 		printf("Failed to read the BG file ");
 		return 1;
 	}
-	if (YSOK != myWav4.LoadWav("Suspense.wav"))
+	if (YSOK != myWav4.LoadWav("Assets/Suspense.wav"))
 	{
 		printf("Failed to read the BG file ");
 		return 1;

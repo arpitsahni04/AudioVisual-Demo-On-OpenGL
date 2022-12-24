@@ -7,33 +7,33 @@ background::background()
 	// Load all textures 
 	YsRawPngDecoder theDecoder;
 
-	theDecoder.Decode("BG.png");
+	theDecoder.Decode("Assets/BG.png");
 	BG_wid = theDecoder.wid;
 	BG_hei = theDecoder.hei;
 	utils::loadTexture(theDecoder, BG1);
 
-	theDecoder.Decode("BG2.png");
+	theDecoder.Decode("Assets/BG2.png");
 	utils::loadTexture(theDecoder, BG2);
 
-	theDecoder.Decode("WormHole.png");
+	theDecoder.Decode("Assets/WormHole.png");
 	utils::loadTexture(theDecoder, Wormhole);
 
 
-	theDecoder.Decode("asteroidgray.png");
+	theDecoder.Decode("Assets/asteroidgray.png");
 	utils::loadTexture(theDecoder, Asteroid);
 
-	theDecoder.Decode("assignment.png");
+	theDecoder.Decode("Assets/assignment.png");
 	utils::loadTexture(theDecoder, assignment);
 
-	theDecoder.Decode("cmu.png");
+	theDecoder.Decode("Assets/cmu.png");
 	utils::loadTexture(theDecoder, Logo);
 
-	theDecoder.Decode("CMU_Build.png");
+	theDecoder.Decode("Assets/CMU_Build.png");
 	utils::loadTexture(theDecoder, BG3);
 
 	// load frames for stair steps
 	for (int i = 0; i < 15; i++) {
-		std::string filename = "frame_" + std::to_string(i) + "_delay-0.04s.png";
+		std::string filename = "Assets/frame_" + std::to_string(i) + "_delay-0.04s.png";
 		if (theDecoder.Decode(filename.c_str()) == YSERR) {
 			std::cout << "Error reading filename";
 		}
@@ -42,7 +42,7 @@ background::background()
 	}
 	// load frames for Explosion
 	for (int i = 0; i < 51; i++) {
-		std::string filename = "explosion_" + std::to_string(i) + "_delay-0.1s.png";
+		std::string filename = "Assets/explosion_" + std::to_string(i) + "_delay-0.1s.png";
 		if (theDecoder.Decode(filename.c_str()) == YSERR) {
 			std::cout << "Error reading filename";
 		}

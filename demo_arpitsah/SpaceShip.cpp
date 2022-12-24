@@ -8,7 +8,7 @@ SpaceShip::SpaceShip()
 	SpaceShip_y = hei / 2;
 
 	YsRawPngDecoder theDecoder;
-	std::string filename = "Interstellar ship.png";
+	std::string filename = "Assets/Interstellar ship.png";
 	if (theDecoder.Decode(filename.c_str()) == YSERR) {
 		std::cout << "Error reading filename";
 	}
