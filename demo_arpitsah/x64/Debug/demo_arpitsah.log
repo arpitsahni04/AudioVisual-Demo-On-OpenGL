@@ -1,0 +1,29 @@
+﻿  Demo_arpitsah.cpp
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\Demo_arpitsah.cpp(29,6): warning C4101: 'mouseEvent': unreferenced local variable
+  SpaceShip.cpp
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(7,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(8,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(35,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(41,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(48,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(48,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(59,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(64,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(69,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(69,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(76,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(83,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(83,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(88,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(92,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(99,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(99,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(108,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(114,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(115,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(121,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\SpaceShip.cpp(121,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  background.cpp
+D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\demo_arpitsah\background.cpp(94,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  demo_arpitsah.vcxproj -> D:\CMU\COURSES\SEM-1\24-780 Engineering Computation\demo_arpitsah\x64\Debug\demo_arpitsah.exe
